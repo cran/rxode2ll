@@ -1,5 +1,5 @@
 Package: rxode2ll
-Version: 2.0.11
+Version: 2.0.12
 Title: Log-Likelihood Functions for 'rxode2'
 Authors@R: c(
    person("Matthew L.","Fidler",
@@ -10,7 +10,7 @@ Depends: R (>= 4.0.0)
 Suggests: covr, testthat (>= 3.0.0)
 Imports: Rcpp (>= 1.0.8), checkmate, RcppParallel
 Description: Provides the log-likelihoods with gradients from 'stan'
-    (Carpenter et al (2015), <arXiv:1509.07164>) needed
+    (Carpenter et al (2015), <doi:10.48550/arXiv.1509.07164>) needed
     for generalized log-likelihood estimation in 'nlmixr2'
     (Fidler et al (2019) <doi:10.1002/psp4.12445>). This is
     split of to reduce computational burden of recompiling 'rxode2'
@@ -28,7 +28,7 @@ LinkingTo: Rcpp (>= 1.0.8), RcppEigen (>= 0.3.3.9.2), StanHeaders (>=
 Encoding: UTF-8
 Language: en-US
 Config/testthat/edition: 3
-Packaged: 2023-03-17 17:09:38 UTC; matt
+Packaged: 2024-11-21 21:47:56 UTC; matt
 Author: Matthew L. Fidler [aut, cre] (<https://orcid.org/0000-0001-8538-6691>)
 Repository: CRAN
-Date/Publication: 2023-03-17 23:40:02 UTC
+Date/Publication: 2024-11-21 22:30:02 UTC

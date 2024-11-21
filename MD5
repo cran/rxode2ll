@@ -1,6 +1,6 @@
-6360872ca73034025eb9b774b0fe9532 *DESCRIPTION
+0166517362a69f7e3d843b258e0a1eeb *DESCRIPTION
 b5e3a57df4db9cd74125649e94e762cf *NAMESPACE
-677bab81a5e74639a63b9b1f2e810f7d *NEWS.md
+2dc2800455f5c5e8192cfbf7b05282e5 *NEWS.md
 17abb346906988d5fba9bdbe9e0c10dc *R/RcppExports.R
 1dc6aec34a36a1a8e1c8ca153dbd6836 *R/llik.R
 89fdf2a9df83a58bbc6a5d0a21a45365 *README.md
@@ -8,8 +8,8 @@ b5e3a57df4db9cd74125649e94e762cf *NAMESPACE
 c57a96dde3a290cb24bc059ba354a73b *cleanup.win
 901e192039e0abc401ced8699a9d5e72 *configure
 5be627af38dcb866b15b805abb2e5407 *configure.win
-481134e549962aa19cb7e97a9502c206 *inst/CITATION
-8ff55338afb1b9ba81858961282ebc80 *inst/tools/workaround.R
+2da430f1e0c337e626ec8909cf776c49 *inst/CITATION
+cfbafe2e6e3f3f33e91924455c4e0a7d *inst/tools/workaround.R
 b89f5fbcd4506072a1fb1ed0bf6988cc *man/llikBeta.Rd
 96a79e7be199a1d38601ab9a1dd376a0 *man/llikBinom.Rd
 840d23ce2d6d4cd48281ab6104ff3158 *man/llikCauchy.Rd
