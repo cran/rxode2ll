@@ -1,5 +1,5 @@
 Package: rxode2ll
-Version: 2.0.12
+Version: 2.0.13
 Title: Log-Likelihood Functions for 'rxode2'
 Authors@R: c(
    person("Matthew L.","Fidler",
@@ -28,7 +28,7 @@ LinkingTo: Rcpp (>= 1.0.8), RcppEigen (>= 0.3.3.9.2), StanHeaders (>=
 Encoding: UTF-8
 Language: en-US
 Config/testthat/edition: 3
-Packaged: 2024-11-21 21:47:56 UTC; matt
+Packaged: 2024-12-15 01:27:21 UTC; matt
 Author: Matthew L. Fidler [aut, cre] (<https://orcid.org/0000-0001-8538-6691>)
 Repository: CRAN
-Date/Publication: 2024-11-21 22:30:02 UTC
+Date/Publication: 2024-12-15 03:40:02 UTC

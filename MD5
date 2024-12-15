@@ -1,6 +1,6 @@
-0166517362a69f7e3d843b258e0a1eeb *DESCRIPTION
+c5be64cf5c7f57453cd5aec103620cac *DESCRIPTION
 b5e3a57df4db9cd74125649e94e762cf *NAMESPACE
-2dc2800455f5c5e8192cfbf7b05282e5 *NEWS.md
+23e91e034bd59a00e8d7215f951570ab *NEWS.md
 17abb346906988d5fba9bdbe9e0c10dc *R/RcppExports.R
 1dc6aec34a36a1a8e1c8ca153dbd6836 *R/llik.R
 89fdf2a9df83a58bbc6a5d0a21a45365 *README.md
@@ -25,7 +25,7 @@ f12b228a5a03060bbfe72bf454d750f0 *man/llikGamma.Rd
 751966663cceda06eb0369158c8f6af5 *man/llikT.Rd
 5f8b9140ebb0cee07a656ebe0257e0b1 *man/llikUnif.Rd
 fdf15572c81717e437d9b8671abc14f0 *man/llikWeibull.Rd
-e6576d2822ba5ed782cb3bdef8e7d4b4 *src/Makevars.in
+119e3c3c7f05184ff50f64c4e07b5892 *src/Makevars.in
 5e8f0bc3791683baa5b4dda23867ecd4 *src/RcppExports.cpp
 1e38cf2c7442c01760103606e2a1c6d8 *src/init.c
 88f44ed1da6581b9f5a8d9aa1afb1ca4 *src/llik.h
