@@ -1,5 +1,5 @@
 Package: rxode2ll
-Version: 2.0.13
+Version: 2.0.14
 Title: Log-Likelihood Functions for 'rxode2'
 Authors@R: c(
    person("Matthew L.","Fidler",
@@ -24,11 +24,12 @@ URL: https://nlmixr2.github.io/rxode2ll/,
 RoxygenNote: 7.2.3
 Biarch: true
 LinkingTo: Rcpp (>= 1.0.8), RcppEigen (>= 0.3.3.9.2), StanHeaders (>=
-        2.21.0.7), BH (>= 1.78.0.0), RcppParallel
+        2.26), BH (>= 1.78.0.0), RcppParallel
 Encoding: UTF-8
 Language: en-US
 Config/testthat/edition: 3
-Packaged: 2024-12-15 01:27:21 UTC; matt
-Author: Matthew L. Fidler [aut, cre] (<https://orcid.org/0000-0001-8538-6691>)
+Packaged: 2026-02-23 16:41:17 UTC; matt-fidler
+Author: Matthew L. Fidler [aut, cre] (ORCID:
+    <https://orcid.org/0000-0001-8538-6691>)
 Repository: CRAN
-Date/Publication: 2024-12-15 03:40:02 UTC
+Date/Publication: 2026-02-24 06:20:44 UTC
